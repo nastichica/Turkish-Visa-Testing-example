@@ -35,4 +35,4 @@
 
 <b>Пример тест-кейса | Test-case example</b> link..
 
-<b>Пример баг-репорта | Bug report example</b> [link..](https://tovma.atlassian.net/browse/TT-4?atlOrigin=eyJpIjoiMTI3MjViZjBjNWVjNDc0YWIwMTQ2ZTM5ZDE0YTRlM2QiLCJwIjoiaiJ9)https://tovma.atlassian.net/browse/TT-4?atlOrigin=eyJpIjoiMTI3MjViZjBjNWVjNDc0YWIwMTQ2ZTM5ZDE0YTRlM2QiLCJwIjoiaiJ9
+<b>Пример баг-репорта | Bug report example</b> https://tovma.atlassian.net/browse/TT-4
